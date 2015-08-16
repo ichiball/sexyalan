@@ -5,7 +5,7 @@ $(document).ready(function() {
     scrollingSpeed:1000,
     slidesNavigation: true,
     lockAnchors: false,
-    loopHorizontal: true,
+    loopHorizontal: false,
     continuousVertical: false,
   });
 });
